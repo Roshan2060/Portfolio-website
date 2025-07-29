@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "/Users/roshan/Desktop/portfolio-website/src/assets/4cf67fa2-eec4-4621-8f88-dc538e55a1aa.jpeg"; // 👈 Replace with your actual image path
+import profilePic from "../assets/4cf67fa2-eec4-4621-8f88-dc538e55a1aa.jpeg"; // 👈 Replace with your actual image path
 function Home() {
   return (
     <section
